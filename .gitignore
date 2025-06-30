@@ -485,3 +485,4 @@ $RECYCLE.BIN/
 API/appsettings.Development.json
 .vscode/launch.json
 .vscode/tasks.json
+API/appsettings.json
